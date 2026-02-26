@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2026-02-26T10:52:11.369938",
+    "image_name": "tmprl8eq480.jpg",
+    "infected_area_percent": 100.0,
+    "lesion_count": 2,
+    "confidence_avg": 0.601,
+    "predicted_severity": "Severe",
+    "expert_severity": "None",
+    "reward": -1.0,
+    "old_thresholds": {
+      "mild_max": 10.0,
+      "moderate_max": 30.0
+    },
+    "new_thresholds": {
+      "mild_max": 9.9,
+      "moderate_max": 29.85
+    }
+  },
+  {
+    "timestamp": "2026-02-26T10:53:33.619053",
+    "image_name": "tmp6327q5s8.jpg",
+    "infected_area_percent": 100.0,
+    "lesion_count": 1,
+    "confidence_avg": 0.8052,
+    "predicted_severity": "Severe",
+    "expert_severity": "Severe",
+    "reward": 1.0,
+    "old_thresholds": {
+      "mild_max": 9.9,
+      "moderate_max": 29.85
+    },
+    "new_thresholds": {
+      "mild_max": 9.9,
+      "moderate_max": 29.85
+    }
+  },
+  {
+    "timestamp": "2026-02-26T10:53:42.207950",
+    "image_name": "tmp6327q5s8.jpg",
+    "infected_area_percent": 100.0,
+    "lesion_count": 1,
+    "confidence_avg": 0.8052,
+    "predicted_severity": "Severe",
+    "expert_severity": "Moderate",
+    "reward": 0.5,
+    "old_thresholds": {
+      "mild_max": 9.9,
+      "moderate_max": 29.85
+    },
+    "new_thresholds": {
+      "mild_max": 9.85,
+      "moderate_max": 29.775000000000002
+    }
+  }
+]
