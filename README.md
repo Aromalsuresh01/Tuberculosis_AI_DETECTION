@@ -446,4 +446,4 @@ Not licensed for commercial or clinical use.
 
 ---
 
-*Built with ❤️ for advancing AI in medical imaging research.*
+
